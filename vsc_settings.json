@@ -1,0 +1,11 @@
+// Place your settings in this file to overwrite the default settings
+{
+	"editor.tabSize": 2,
+	"editor.fontFamily": "Consolas, 'Courier New', monospace",
+	"window.zoomLevel": 0,
+	"workbench.iconTheme": "material-icon-theme",
+	"javascript.updateImportsOnFileMove.enabled": "never",
+	"window.titleBarStyle": "custom",
+	"workbench.colorTheme": "Material Theme Darker High Contrast",
+	"explorer.confirmDragAndDrop": false
+}
