@@ -1,14 +1,4 @@
-// VS Code JavaScript snippets
-// List:
-//  1. Logging
-//	2. Testing
-//	3. React
-//	4. Redux
-//	5. Functions, imports and exports
-//  6. Others
-
 {
-	// Logging
 	"Print to console with separator": {
 		"prefix": "qlog",
 		"body": [
@@ -17,7 +7,6 @@
 		],
 		"description": "Print to console with separator"
 	},
-	// Testing
 	"Jest describe": {
 		"prefix": "qdescribe",
 		"body": [
@@ -52,7 +41,6 @@
 		],
 		"description": "Jest expect"
 	},
-	// React
 	"Presentational component": {
 		"prefix": "qprescomp",
 		"body": [
@@ -73,7 +61,6 @@
 		],
 		"description": "Stateless functional, presentational component with PropTypes"
 	},
-	// Redux
 	"Reducer": {
 		"prefix": "qreducer",
 		"body": [
@@ -111,7 +98,6 @@
 		],
 		"description": "Named thunk action"
 	},
-	// Functions, imports and exports
 	"Named function": {
 		"prefix": "qnf",
 		"body": [
@@ -128,7 +114,6 @@
 		],
 		"description": "Module exports"
 	},
-	// Others
 	"For loop": {
 		"prefix": "qfor",
 		"body": [
